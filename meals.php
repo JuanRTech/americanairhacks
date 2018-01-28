@@ -242,8 +242,8 @@
           </div>
         </div> -->
         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="index.php">
-            Close Menu
+          <a class="btn btn-xl btn-outline-light" href="menu.php">
+            Main Menu
           </a>
         </div>
       <!-- </div> -->

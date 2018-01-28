@@ -30,9 +30,9 @@
 <!-- Contact Section -->
 <section id="contact">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Feedback</h2>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Customer Insight</h2>
         <hr class="star-dark mb-5">
-        <h3 class="font-weight-light mb-0">Was This Website Helpful?</h3>
+        <h3 class="font-weight-light mb-0">How was your flight?</h3>
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->

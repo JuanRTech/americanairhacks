@@ -58,7 +58,7 @@
 
     <!-- Order Menu Grid Section -->
 <div class="mobileShow">
-    <!--<a name="menu">
+    <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Method Of Payment</h2>
@@ -78,7 +78,7 @@
 		</body>
         </div>
       </div>
-    </section> !-->
+    </section>
     <form action="OrderSQL.php" method="post">
       
     </form>

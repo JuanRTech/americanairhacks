@@ -342,7 +342,7 @@
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
     <div class="scroll-to-top d-lg-none position-fixed ">
       <a class="js-scroll-trigger d-block text-center text-white rounded" href="index.php">
-        <i class="fa fa-house"></i>
+        <i class="fa fa-home"></i>
       </a>
     </div>
 

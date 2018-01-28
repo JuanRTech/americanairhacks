@@ -9,6 +9,8 @@
     <meta name="author" content="">
 
     <title>American Airlines</title>
+    <link rel="shortcut icon" href="aa.png" />
+
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">

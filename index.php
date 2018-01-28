@@ -45,7 +45,7 @@
       </h1>
         <hr class="star-light">
         <h2 class="font-weight-light mb-0"></h2>
-        <p><h6>Touch to access menu</h6></p>
+        <p><h6>Tap to access menu</h6></p>
       </div>
     </header>
 </a>

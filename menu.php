@@ -91,9 +91,9 @@
     </section>
 
     <!-- About Section -->
-    <section class="bg-primary text-white mb-0" id="about">
-      <div class="container">
-        <h2 class="text-center text-uppercase text-white">AirSnack Deals</h2>
+    <section class="bg-primary text-white mb-auto" id="about">
+      <!-- <div class="container"> -->
+        <!-- <h2 class="text-center text-uppercase text-white">AirSnack Deals</h2>
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
@@ -105,13 +105,13 @@
             <p class="lead">Half OFF drinks with a purchase of a tide pod</p>
             <p class="lead">20% off watermelons when you buy a loaf of vegan water</p>
           </div>
-        </div>
+        </div> -->
         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="#">
-            Claim Now!
+          <a class="btn btn-xl btn-outline-light" href="index.php">
+            Close Menu
           </a>
         </div>
-      </div>
+      <!-- </div> -->
     </section>
 
     <!-- Contact Section -->

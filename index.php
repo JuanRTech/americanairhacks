@@ -38,13 +38,14 @@
         <marquee behavior="scroll" direction="left" scrollamount="25">American Airlines Flight AAL2352 | DFW -> SFO | ETA 03:21:20</marquee>
 </div>
 <div class="mobileShow">
-  <h4>
-<p>American Airlines</p><p>Flight AAL2352</p> <p>DFW -> SFO</p> <p>Flight time remaining 03:21:20</p>
-</h4>
+  
+<p><h3><b>American Airlines</b></h3></p><p><h5>Flight AAL2352</p> <p>DFW -> SFO</p> <p>Flight time remaining 03:21:20</p>
+</h5>
       
       </h1>
         <hr class="star-light">
         <h2 class="font-weight-light mb-0"></h2>
+        <p><h6>Touch to access menu</h6></p>
       </div>
     </header>
 </a>

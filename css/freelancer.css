@@ -187,8 +187,8 @@ header.masthead h2 {
 /* @media (min-width: 992px) { */
   @media (min-width: 1px) {
   header.masthead {
-    padding-top: calc(6rem + 0px);
-    padding-bottom: 6rem;
+    padding-top: calc(2rem + 72px);
+    padding-bottom: 20rem;
   }
   header.masthead h1 {
     font-size: 4.75em;

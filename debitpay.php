@@ -37,21 +37,19 @@
     <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Method Of Payment</h2>
-        <body>
-		<a class="coinbase-button" data-code="4d4b84bbad4508b64b61d372ea394dad" data-button-style="custom_large" data-button-text="Checkout With Bitcoin" data-custom="order1234" href="https://www.coinbase.com/checkouts/4d4b84bbad4508b64b61d372ea394dad">Checkout With Bitcoin</a>
-        <script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
-		</body>
-		<body class="buttons allow_iframe" style="padding: 0; display: inline-block; background-color: transparent;" data-env="production">
-			<a href="debitpay.php" class="btn btn-primary  coinbase-button2" style="" data-code="2b30a03995ec62f15bdc54e8428caa87">
-			<i class="icon-basket"></i> Pay With Debit/Credit
-			</a>
-		</body>
-		<body class="buttons allow_iframe" style="padding: 0; display: inline-block; background-color: transparent;" data-env="production">
-			<a href="#" class="btn btn-primary  coinbase-button2" style="" data-code="2b30a03995ec62f15bdc54e8428caa87">
-			<i class="icon-basket"></i> Pay With Capital One Rewards
-			</a>
-		</body>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Pay with Debit/Credit</h2>
+        <form action="/success.php" method="POST">
+  			<script
+    			src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    			data-key="pk_test_6pRNASCoBOKtIshFeQd4XMUh"
+    			data-amount="999"
+    			data-name="Stripe.com"
+    			data-description="Widget"
+    			data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+    			data-locale="auto"
+    			data-zip-code="true">
+  			</script>
+		</form>
       </div>
     </section>
 </div>
@@ -61,21 +59,19 @@
     <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Method Of Payment</h2>
-		<body>
-			<a class="coinbase-button" data-code="4d4b84bbad4508b64b61d372ea394dad" data-button-style="custom_large" data-button-text="Checkout With Bitcoin" data-custom="order1234" href="https://www.coinbase.com/checkouts/4d4b84bbad4508b64b61d372ea394dad">Checkout With Bitcoin</a>
-        	<script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
-		</body>		
-		<body class="buttons allow_iframe" style="padding: 0; display: inline-block; background-color: transparent;" data-env="production">
-			<a href="debitpay.php" class="btn btn-primary  coinbase-button2" style="" data-code="2b30a03995ec62f15bdc54e8428caa87">
-			<i class="icon-basket"></i> Pay With Debit/Credit
-			</a>
-		</body>
-		<body class="buttons allow_iframe" style="padding: 0; display: inline-block; background-color: transparent;" data-env="production">
-			<a href="#" class="btn btn-primary  coinbase-button2" style="" data-code="2b30a03995ec62f15bdc54e8428caa87">
-			<i class="icon-basket"></i> Pay With Capital One Rewards
-			</a>
-		</body>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Pay with Debit/Credit</h2>
+		<form action="/success.php" method="POST">
+  			<script
+    			src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    			data-key="pk_test_6pRNASCoBOKtIshFeQd4XMUh"
+    			data-amount="999"
+    			data-name="Stripe.com"
+    			data-description="Widget"
+    			data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+    			data-locale="auto"
+    			data-zip-code="true">
+  			</script>
+		</form>
         </div>
       </div>
     </section>

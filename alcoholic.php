@@ -34,13 +34,13 @@
     <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Snacks</h2>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Alchohol</h2>
         <h4 class="text-center text-uppercase text-secondary mb-0">Tap to order!</h4>
         <hr class="star-dark mb-5">
         <div class="row">
           <div class="col-md-6 col-lg-4">
               <center>
-          <p><h3>Fruit & Nut Mix</h3></p>
+          <p><h3>Bud Light Beer</h3></p>
             </center>
             <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
@@ -48,12 +48,12 @@
                   <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/nut.jpg" style="width:350px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/budlight.jpg" style="width:350px;height:200px;" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>Hummus and Pita Chips</h3></p>
+          <p><h3>Budweiser Beer</h3></p>
             </center>
             <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
@@ -61,12 +61,12 @@
                   <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/hummus.jpg" style="width:350px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/budw.jpg" style="width:350px;height:200px;" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>Chex Mix</h3></p>
+          <p><h3>Kendall-Jackson Chardonnay Wine</h3></p>
             </center>
             <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
@@ -74,12 +74,12 @@
                   <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/chexmix.jpg" style="width:350px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/kjwine.png" style="width:350px;height:200px;" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>M&Ms Almond Chocolate Candies</h3></p>
+          <p><h3>Cline Zinfandel Wine</h3></p>
             </center>
             <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
@@ -87,7 +87,33 @@
                   <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/m&m.jpg" style="width:350px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/czwine.jpg" style="width:350px;height:200px;" alt="">
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+          <center>
+          <p><h3>Bacardi Rum Spirits</h3></p>
+            </center>
+            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <p>Request</p>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/bac.jpg" style="width:350px;height:200px;" alt="">
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+          <center>
+          <p><h3>Canadian Club Spirits</h3></p>
+            </center>
+            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <p>Request</p>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/canadian.jpg" style="width:350px;height:200px;" alt="">
             </a>
           </div>
         </div>

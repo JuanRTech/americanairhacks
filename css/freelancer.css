@@ -61,7 +61,8 @@ section h2 {
   line-height: 2rem;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) { */
+  @media (min-width: 1px) {
   section h2 {
     font-size: 3rem;
     line-height: 2.5rem;
@@ -131,7 +132,8 @@ section h2 {
   padding: 0.8rem;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) { */
+  @media (min-width: 1px) {
   #mainNav {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
@@ -166,13 +168,15 @@ section h2 {
 }
 
 header.masthead {
-  padding-top: calc(6rem + 72px);
-  padding-bottom: 6rem;
+  padding-top: calc(10rem + 72px);
+  padding-bottom: 11rem;
+  height: 100%;
+  width: 100%;
 }
 
 header.masthead h1 {
   font-size: 3rem;
-  line-height: 3rem;
+  /* line-height: 10%; */
 }
 
 header.masthead h2 {
@@ -180,14 +184,15 @@ header.masthead h2 {
   font-family: 'Lato';
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) { */
+  @media (min-width: 1px) {
   header.masthead {
-    padding-top: calc(6rem + 106px);
+    padding-top: calc(6rem + 0px);
     padding-bottom: 6rem;
   }
   header.masthead h1 {
     font-size: 4.75em;
-    line-height: 4rem;
+    /* line-height: 4rem; */
   }
   header.masthead h2 {
     font-size: 1.75em;
@@ -221,7 +226,8 @@ header.masthead h2 {
   font-size: 1.5rem;
 }
 
-@media (min-width: 576px) {
+/* @media (min-width: 576px) { */
+  @media (min-width: 1px) {
   .portfolio {
     margin-bottom: -30px;
   }
@@ -255,7 +261,8 @@ header.masthead h2 {
   font-size: 2rem;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) { */
+  @media (min-width: 1px) {
   .portfolio-modal .portfolio-modal-dialog {
     min-height: 100vh;
     padding: 5rem;
@@ -378,3 +385,19 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+.mobileHide { display: inline; } 
+
+  /* Smartphone Portrait and Landscape */ 
+  @media only screen 
+    and (min-device-width : 320px) 
+    and (max-device-width : 480px){ 
+     .mobileHide { display: none;}
+  }
+  .mobileShow {display: none;} 
+  
+    /* Smartphone Portrait and Landscape */ 
+    @media only screen 
+      and (min-device-width : 320px) 
+      and (max-device-width : 480px){ 
+        .mobileShow {display: inline;}
+    }

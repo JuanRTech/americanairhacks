@@ -29,19 +29,31 @@
   <body id="page-top">
 
     <!-- Flight -->
+<a style="display:block" href="#menu">
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
         <img class="img-fluid mb-5 d-block mx-auto" src="aa.png" alt="">
-        <h1 class="text-uppercase mb-0">Flight AAL2352</h1>
+        <h1 class="mb-auto">
+          <div class="mobileHide">
+        <marquee behavior="scroll" direction="left" scrollamount="25">American Airlines Flight AAL2352 | DFW -> SFO | Flight time remaining 03:21:20</marquee>
+</div>
+<div class="mobileShow">
+  <h4>
+<p>American Airlines</p><p>Flight AAL2352</p> <p>DFW -> SFO</p> <p>Flight time remaining 03:21:20</p>
+</h4>
+      
+      </h1>
         <hr class="star-light">
         <h2 class="font-weight-light mb-0"></h2>
       </div>
     </header>
+</a>
 
     <!-- Order Menu Grid Section -->
+    <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Order Menu</h2>
+        <h2 class="text-center text-uppercase text-secondary mb-0">In-Flight Menu</h2>
         <hr class="star-dark mb-5">
         <div class="row">
           <div class="col-md-6 col-lg-4">
@@ -380,7 +392,7 @@
     <script src="js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/freelancer.min.js"></script>
+    <script src="js/freelancer.js"></script>
 
   </body>
 

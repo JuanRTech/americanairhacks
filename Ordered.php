@@ -38,6 +38,7 @@
     <section class="portfolio" id="portfolio">
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Method Of Payment</h2>
+        </div>
         <body>
 		<a class="coinbase-button" data-code="4d4b84bbad4508b64b61d372ea394dad" data-button-style="custom_large" data-button-text="Checkout With Bitcoin" data-custom="order1234" href="https://www.coinbase.com/checkouts/4d4b84bbad4508b64b61d372ea394dad">Checkout With Bitcoin</a>
         <script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
@@ -52,7 +53,6 @@
 			<i class="icon-basket"></i> Pay With Capital One Rewards
 			</a>
 		</body>
-      </div>
     </section>
 </div>
 

@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-
+    <meta http-equiv="refresh" content="3;url=snacks.php" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -34,62 +34,7 @@
     <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Snacks</h2>
-        <hr class="star-dark mb-5">
-        <div class="row">
-          <div class="col-md-6 col-lg-4">
-              <center>
-          <p><h3>Fruit & Nut Mix</h3></p>
-            </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
-              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <p>Request</p>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/nut.jpg" style="width:350px;height:200px;" alt="">
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4">
-          <center>
-          <p><h3>Hummus and Pita Chips</h3></p>
-            </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
-              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <p>Request</p>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/hummus.jpg" style="width:350px;height:200px;" alt="">
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4">
-          <center>
-          <p><h3>Chex Mix</h3></p>
-            </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
-              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <p>Request</p>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/chexmix.jpg" style="width:350px;height:200px;" alt="">
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4">
-          <center>
-          <p><h3>M&Ms Almond Chocolate Candies</h3></p>
-            </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
-              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <p>Request</p>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/m&m.jpg" style="width:350px;height:200px;" alt="">
-            </a>
-          </div>
-        </div>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Ordered!</h2>
       </div>
     </section>
 </div>
@@ -185,29 +130,6 @@
     </section>
 </div>
 
-    <!-- About Section -->
-    <section class="bg-primary text-white mb-auto" id="about">
-      <!-- <div class="container"> -->
-        <!-- <h2 class="text-center text-uppercase text-white">AirSnack Deals</h2>
-        <hr class="star-light mb-5">
-        <div class="row">
-          <div class="col-lg-4 ml-auto">
-            <p class="lead">As You're favorite Airline, we want to give you the best quality as a customer! We Offer Amazing deals, prizes, and raffles for being a loyal customer! We want our customers to save money so they can enjoy their trips!</p>
-          </div>
-          <div class="col-lg-4 mr-auto">
-          	<p class="lead">Deals:</p>
-            <p class="lead">FREE CocaCola with purchase of TWO AirSnacks</p>
-            <p class="lead">Half OFF drinks with a purchase of a tide pod</p>
-            <p class="lead">20% off watermelons when you buy a loaf of vegan water</p>
-          </div>
-        </div> -->
-        <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="index.php">
-            Close Menu
-          </a>
-        </div>
-      <!-- </div> -->
-    </section>
 
     <!-- Contact Section
     <section id="contact">

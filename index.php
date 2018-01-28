@@ -37,7 +37,7 @@
         <img class="img-fluid mb-5 d-block mx-auto" src="aa.png" alt="">
         <h1 class="mb-auto">
           <div class="mobileHide">
-        <marquee behavior="scroll" direction="left" scrollamount="25">Welcome to American Airlines, enjoy your flight!</marquee>
+        <marquee behavior="scroll" direction="left" scrollamount="20">American Airlines - Going for Great!</marquee>
 </div>
 <div class="mobileShow">
   

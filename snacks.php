@@ -44,14 +44,10 @@
             <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/nut.jpg" style="width:350px;height:200px;" alt="">
-              <div>
-              <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1"></a>
-              <a class="btn btn-success" href="cartAction.php?action=addToCart&amp;id=2">Request</a>
-              </div>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -61,11 +57,10 @@
             <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/hummus.jpg" style="width:350px;height:200px;" alt="">
-        	  <a class="btn btn-success" href="cartAction.php?action=addToCart&amp;id=2">Request</a>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -75,11 +70,10 @@
             <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/chexmix.jpg" style="width:350px;height:200px;" alt="">
-              <a class="btn btn-success" href="cartAction.php?action=addToCart&amp;id=2">Request</a>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -89,11 +83,10 @@
             <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/m&m.jpg" style="width:350px;height:200px;" alt="">
-              <a class="btn btn-success" href="cartAction.php?action=addToCart&amp;id=2">Request</a>
             </a>
           </div>
         </div>

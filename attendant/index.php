@@ -13,7 +13,7 @@
             <div class="card-body-icon">
               <i class="fa fa-credit-card" aria-hidden="true"></i>
             </div>
-            <div class="mr-5">123 New Orders!</div>
+            <div class="mr-5">Passenger Orders</div>
           </div>
           <a class="card-footer text-white clearfix small z-1" href="orders.php">
             <span class="float-left">View Details</span>
@@ -43,27 +43,34 @@
   </div>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-12">
+      <div class="col-md-6">
         <div class="card">
           <div class="card-header">
             <h2>Trip Information</h2>
           </div>
           <div class="card-body">
-            Departed: Houston, TX USA <br>
-            Destination: Leauge City, 7th District, MOON <br>
+            Departed: IAH <br>
+            Destination: MOON <br>
             Time in flight: 3:12 <br>
             ETA: 3:43pm <br>
             Time to destination: 2:12 <br>
             Distance to destination: 802mi <br>
-            <h4>Destination Conditions</h4>
-            Current Time: 1:31pm <br>
-            Temperature: 76 Degrees <br>
-            Weather: Cloudy <br>
           </div>
         </div>
       </div>
-      <div></div>
-      <div class="col-12">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            <h2>Destination Conditions</h2>
+          </div>
+          <div class="card-body">
+            Local Time: 1:31pm <br>
+            Temperature: 76 Degrees <br>
+            Weather: Cloudy with a change of meatballs<br>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
         <div class="card">
           <div class="card-header">
            <h2>Responsibilities</h2>
@@ -74,7 +81,7 @@
            </div>
          </div>
       </div>
-      <div class="col-12">
+      <div class="col-md-6">
       <div class="card">
         <div class="card-header">
           <h2>Plane Information</h2>

@@ -41,7 +41,7 @@
               echo "<b>Quantity: " . $res['Quantity'] . "</b>";
               echo "</div>";
               echo "<div class='col'>";
-              echo '<form action="orders.php" method="get">';
+              echo '<form action="orders.php" method="post">';
               echo '<input type="hidden" name="act" value="' . $res["ID"] . '">';
               echo '<button type="submit" class="btn btn-success btn-block">Delivered</button>';
               echo '</form>';
@@ -55,7 +55,7 @@
     </div>
   </div>
 <?php require('footer.php');?>
-<?php if (!empty($_GET['act'])) {
-    CompleteOrder($_GET['act']);
+<?php if (!empty($_POST['act'])) {
+    CompleteOrder($_POST['act']);
   }
   ?>

@@ -31,7 +31,7 @@
     <!-- Flight -->
 <a style="display:block" href="menu.php">
     <header class="masthead bg-primary text-white text-center">
-      <div class="container">
+      <!-- <div class="container"> -->
         <img class="img-fluid mb-5 d-block mx-auto" src="aa.png" alt="">
         <h1 class="mb-auto">
           <div class="mobileHide">

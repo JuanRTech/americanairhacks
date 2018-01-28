@@ -51,7 +51,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
               <center>
           <p><h3>Bud Light Beer</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=51">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -64,7 +64,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Budweiser Beer</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=52">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -77,7 +77,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Kendall-Jackson Chardonnay Wine</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=53">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -90,7 +90,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Cline Zinfandel Wine</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=54">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -103,7 +103,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Bacardi Rum Spirits</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=55">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -116,7 +116,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Canadian Club Spirits</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=46">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -142,7 +142,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
               <center>
           <p><h3>Bud Light Beer</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=51">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -155,7 +155,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Budweiser Beer</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=52">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -168,7 +168,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Kendall-Jackson Chardonnay Wine</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=53">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -181,7 +181,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Cline Zinfandel Wine</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=54">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -194,7 +194,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Bacardi Rum Spirits</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=55">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -207,7 +207,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Canadian Club Spirits</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=56">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>

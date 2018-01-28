@@ -51,7 +51,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
               <center>
           <p><h3>Fruit & Nut Mix</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=101">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -64,7 +64,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Hummus and Pita Chips</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=102">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -77,7 +77,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Chex Mix</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=103">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -90,7 +90,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>M&Ms Almond Chocolate Candies</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=104">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -117,7 +117,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
               <center>
           <p><h3>Fruit & Nut Mix</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=101">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -130,7 +130,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Hummus and Pita Chips</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=102">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -143,7 +143,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Chex Mix</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=103">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -156,7 +156,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>M&Ms Almond Chocolate Candies</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=104">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>

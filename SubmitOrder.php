@@ -26,18 +26,19 @@
 
     <!-- Custom styles for this template -->
     <link href="css/freelancer.css" rel="stylesheet">
+    <link rel="shortcut icon" href="aa.png" />
 
   </head>
   <body>
-    <div class="row">
-        <div class="col-md-*">
+    <div class="row align-items-center">
+        <div class="col-md-* align-items-center">
             <div class="card">
                 <div class="card-header text-center">
                     <h2>Are you sure you want to order?</h2>
                 </div>
                 <div class="card-body">
                     <form action="OrderSQL.php" method="post">
-                        <input type="hidden" name="act" value= <?php if (!empty($_POST['act'])) {echo $_POST['act'];}?>>
+                        <input type="hidden" name="id" value= <?php if (!empty($_GET['id'])) {echo $_GET['id'];}?>>
                         <input type="submit" class="btn btn-success btn-block" value="YES">
                         <a href="menu.php"><button type="button" class="btn btn-failure btn-block">NO</button></a>
                     </form>

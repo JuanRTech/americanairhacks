@@ -51,7 +51,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
               <center>
           <p><h3>Continental Breakfast</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=201">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -64,7 +64,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Egg & Turkey Bacon Sandwich Breakfast</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=202">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -77,7 +77,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Chicken Arugula Wrap Lunch</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=203">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -90,7 +90,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Chicken Cobb Salad Lunch</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=204">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -103,7 +103,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Korean Short Ribs Dinner</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=1205">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -116,7 +116,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Herb Crusted Snapper Dinner</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=206">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -129,7 +129,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Thai Yellow Curry</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=207">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -155,7 +155,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
               <center>
           <p><h3>Continental Breakfast</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=201">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -168,7 +168,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Egg & Turkey Bacon Sandwich Breakfast</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=202">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -181,7 +181,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Chicken Arugula Wrap Lunch</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=203">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -194,7 +194,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Chicken Cobb Salad Lunch</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=204">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -207,7 +207,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Korean Short Ribs Dinner</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=205">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -220,7 +220,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Herb Crusted Snapper Dinner</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=206">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>
@@ -233,7 +233,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
           <center>
           <p><h3>Thai Yellow Curry</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="ordered.php">
+            <a class="portfolio-item d-block mx-auto" href="submitorder.php?id=207">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <p>Request</p>

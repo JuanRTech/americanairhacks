@@ -111,4 +111,3 @@
     </div>
   </nav>
   <div class="content-wrapper">
-    <div class="container-fluid">

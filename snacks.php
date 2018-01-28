@@ -100,85 +100,60 @@
     <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">In-Flight Menu</h2>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Snacks</h2>
+        <h4 class="text-center text-uppercase text-secondary mb-0">Tap to order!</h4>
         <hr class="star-dark mb-5">
         <div class="row">
           <div class="col-md-6 col-lg-4">
               <center>
-          <p><h3>Snacks</h3></p>
+          <p><h3>Fruit & Nut Mix</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+            <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/snacks.png" style="width:400px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/nut.jpg" style="width:400px;height:200px;" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>Meals</h3></p>
+          <p><h3>Hummus and Pita Chips</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+            <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/meals.jpg" style="width:400px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/hummus.jpg" style="width:400px;height:200px;" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>Drinks</h3></p>
+          <p><h3>Chex Mix</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+            <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/drinks.jpg" style="width:400px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/chexmix.jpg" style="width:400px;height:200px;" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>Adult Beverages</h3></p>
+          <p><h3>M&Ms Almond Chocolate Candies</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
+            <a class="portfolio-item d-block mx-auto" href="ordered.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
+                  <p>Request</p>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/alchohol.jpg" style="width:400px;height:200px;" alt="">
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4">
-          <center>
-          <p><h3>Entertainment</h3></p>
-            </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-5">
-              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/popcorn.jpg" style="width:400px;height:200px;" alt="">
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4">
-          <center>
-          <p><h3>Feedback</h3></p>
-            </center>
-            <a class="portfolio-item d-block mx-auto" href="feedback.php">
-              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                  <i class="fa fa-search-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/feedback.png" style="width:400px;height:200px;" alt="">
+              <img class="img-fluid" src="img/portfolio/m&m.jpg" style="width:400px;height:200px;" alt="">
             </a>
           </div>
         </div>

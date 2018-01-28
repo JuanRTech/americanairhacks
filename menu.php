@@ -145,7 +145,7 @@
           <center>
           <p><h3>Meals</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+            <a class="portfolio-item d-block mx-auto" href="meals.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fa fa-search-plus fa-3x"></i>
@@ -158,7 +158,7 @@
           <center>
           <p><h3>Drinks</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+            <a class="portfolio-item d-block mx-auto" href="drinks.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fa fa-search-plus fa-3x"></i>
@@ -171,7 +171,7 @@
           <center>
           <p><h3>Alcoholic Beverages</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
+            <a class="portfolio-item d-block mx-auto" href="alcoholic.php">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fa fa-search-plus fa-3x"></i>

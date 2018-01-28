@@ -184,7 +184,7 @@
           <center>
           <p><h3>Entertainment</h3></p>
             </center>
-            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-5">
+            <a class="portfolio-item d-block mx-auto" href="http://entertainment.aa.com/en/">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fa fa-search-plus fa-3x"></i>

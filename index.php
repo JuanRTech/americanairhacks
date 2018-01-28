@@ -35,11 +35,11 @@
         <img class="img-fluid mb-5 d-block mx-auto" src="aa.png" alt="">
         <h1 class="mb-auto">
           <div class="mobileHide">
-        <marquee behavior="scroll" direction="left" scrollamount="25">American Airlines Flight AAL2352 | DFW -> SFO | ETA 03:21:20</marquee>
+        <marquee behavior="scroll" direction="left" scrollamount="25">American Airlines Flight AAL2352 | DFW -> SFO | ETA Soon</marquee>
 </div>
 <div class="mobileShow">
   
-<p><h3><b>American Airlines</b></h3></p><p><h5>Flight AAL2352</p> <p>DFW -> SFO</p> <p>Flight time remaining 03:21:20</p>
+<p><h3><b>American Airlines</b></h3></p><p><h5>Flight AAL2352</p> <p>DFW -> SFO</p> <p>ETA Soon</p>
 </h5>
       
       </h1>

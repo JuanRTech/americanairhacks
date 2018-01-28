@@ -28,7 +28,7 @@
 
   <body id="page-top">
 
-
+<div class="hideScrollBar">
     <!-- Order Menu Grid Section -->
     <div class="mobileHide">
     <a name="menu">
@@ -480,6 +480,7 @@
       </div>
     </div>
 
+</div>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

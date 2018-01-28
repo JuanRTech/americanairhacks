@@ -172,6 +172,15 @@ header.masthead {
   padding-bottom: 11rem;
   height: 100%;
   width: 100%;
+
+}
+.hideScrollBar{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin-right: 0px;
+  padding-right: 0px; /*This would hide the scroll bar of the right. To be sure we hide the scrollbar on every browser, increase this value*/
+  padding-bottom: 0px; /*This would hide the scroll bar of the bottom if there is one*/
 }
 
 header.masthead h1 {
@@ -215,7 +224,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: #212121;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -343,7 +352,7 @@ a {
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: #676767;
 }
 
 .btn {

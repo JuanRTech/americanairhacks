@@ -34,7 +34,8 @@
     <a name="menu">
     <section class="portfolio" id="portfolio">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Snacks</h2>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Meals</h2>
+        <h4 class="text-center text-uppercase text-secondary mb-0">Tap to order!</h4>
         <hr class="star-dark mb-5">
         <div class="row">
           <div class="col-md-6 col-lg-4">

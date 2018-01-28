@@ -2,7 +2,10 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3;url=snacks.php" />
+	<?php 
+	$url = $_SERVER['HTTP_REFERER']; // right back to the referrer page from where you came.
+	echo '<meta http-equiv="refresh" content="3;URL=' . $url . '">';
+	 ?>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">

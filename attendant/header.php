@@ -33,12 +33,6 @@
             <span class="nav-link-text">Dashboard</span>
           </a>
         </li>
-        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Messages">
-          <a class="nav-link" href="messages.php">
-            <i class="fa fa-comments" aria-hidden="true"></i>
-            <span class="nav-link-text">Messages</span>
-          </a>
-        </li>
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Orders">
           <a class="nav-link" href="orders.php">
             <i class="fa fa-credit-card" aria-hidden="true"></i>

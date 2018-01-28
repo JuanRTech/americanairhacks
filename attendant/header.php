@@ -16,7 +16,7 @@
   <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
   <!-- Custom styles for this template-->
   <link href="css/sb-admin.css" rel="stylesheet">
-  <link rel="shortcut icon" href="aa.png" />
+  <link rel="shortcut icon" href="aa.png"/>
 </head>
 
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">

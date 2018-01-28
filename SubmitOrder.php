@@ -31,7 +31,7 @@
   </head>
   <body>
     <div class="row align-items-center">
-        <div class="col-md-* align-items-center">
+        <div class="col-md-12 align-items-center">
             <div class="card">
                 <div class="card-header text-center">
                     <h2>Are you sure you want to order?</h2>

@@ -169,7 +169,7 @@
           </div>
           <div class="col-md-6 col-lg-4">
           <center>
-          <p><h3>Adult Beverages</h3></p>
+          <p><h3>Alcoholic Beverages</h3></p>
             </center>
             <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">

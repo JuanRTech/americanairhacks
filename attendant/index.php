@@ -61,41 +61,47 @@
     <div class="row">
       <div class="col-12">
         <div class="card">
-          <div class="card-body">
+          <div class="card-header">
             <h2>Trip Information</h2>
-            <p>Departed: Houston, TX USA</p>
-            <p>Destination: Leauge City, 7th District, MOON</p>
-            <p>Time in flight: 3:12</p>
-            <p>ETA: 3:43pm</p>
-            <p>Time to destination: 2:12</p>
-            <p>Distance to destination: 802mi</p>
+          </div>
+          <div class="card-body">
+            Departed: Houston, TX USA <br>
+            Destination: Leauge City, 7th District, MOON <br>
+            Time in flight: 3:12 <br>
+            ETA: 3:43pm <br>
+            Time to destination: 2:12 <br>
+            Distance to destination: 802mi <br>
             <h4>Destination Conditions</h4>
-            <p>Current Time: 1:31pm</p>
-            <p>Temperature: 76 Degrees</p>
-            <p>Weather: Cloudy</p>
+            Current Time: 1:31pm <br>
+            Temperature: 76 Degrees <br>
+            Weather: Cloudy <br>
           </div>
         </div>
       </div>
       <div></div>
       <div class="col-12">
         <div class="card">
+          <div class="card-header">
+           <h2>Responsibilities</h2>
+          </div>
           <div class="card-body">
-            <h2>Responsibilities</h2>
-            <p>Rows: 1-15</p>
-            <p>Seats: A-D</p>
+            Rows: 1-15 <br>
+            Seats: A-D <br>
            </div>
          </div>
       </div>
       <div class="col-12">
       <div class="card">
-        <div class="card-body">
+        <div class="card-header">
           <h2>Plane Information</h2>
-          <p>Manufacturer: Boeing</p>
-          <p>Model: 747-800</p>
-          <p>Crew Size: 12</p>
-          <p>Pilot: Derek She</p>
-          <p>Co-Pilot: Juan Reqeenah</p>
-          <p>Passenger Capacity: 156/300</p>
+        </div>
+        <div class="card-body">
+          Manufacturer: Boeing <br>
+          Model: 747-800 <br>
+          Crew Size: 12 <br>
+          Pilot: Derek She <br>
+          Co-Pilot: Juan Reqeenah <br>
+          Passenger Capacity: 156/300 <br>
         </div>
       </div>
         

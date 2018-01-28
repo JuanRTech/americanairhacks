@@ -4,16 +4,6 @@
     $sql = "Select orders.*, items.Name, items.Price from orders, items where (orders.Complete = false and orders.ItemID = items.ID) ORDER BY timediff(orders.Ordered,CURRENT_TIMESTAMP)";
     $result = $conn->query($sql);
     $conn->close();
-
-    function CompleteOrder($orderID){
-      include('sqlsetup.php');
-      $updatesql = "UPDATE orders\n"
-      . "    SET `Complete` = 1,\n"
-      . "        `Delivered` = CURRENT_TIMESTAMP\n"
-      . "    WHERE `ID` = " . $orderID;
-      $conn->query($updatesql);
-      $conn->close();
-    }
   ?>
   <div class="container-fluid">
     <div class="row">
@@ -41,8 +31,8 @@
               echo "<b>Quantity: " . $res['Quantity'] . "</b>";
               echo "</div>";
               echo "<div class='col'>";
-              echo '<form action="orders.php" method="post">';
-              echo '<input type="hidden" name="act" value="' . $res["ID"] . '">';
+              echo '<form action="fufillorder.php" method="post">';
+              echo '<input type="hidden" name="id" value="' . $res["ID"] . '">';
               echo '<button type="submit" class="btn btn-success btn-block">Delivered</button>';
               echo '</form>';
               echo '</div>';
@@ -55,7 +45,3 @@
     </div>
   </div>
 <?php require('footer.php');?>
-<?php if (!empty($_POST['act'])) {
-    CompleteOrder($_POST['act']);
-  }
-  ?>
